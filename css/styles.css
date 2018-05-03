@@ -145,6 +145,10 @@ i {
   padding: 40px 20px 80px;
 }
 
+#page-story:focus {
+  outline: none;
+}
+
 #page-registry p {
   max-width: 488px;
   margin: 0 auto 12px;
