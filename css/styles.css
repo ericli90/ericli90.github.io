@@ -262,6 +262,12 @@ i {
   border: none;
 }
 
+.due-date {
+  font-size: 14px;
+  font-weight: 400;
+  opacity: 0.5;
+}
+
 .emojis {
   height: 33px;
   margin-bottom: 12px;
