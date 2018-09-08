@@ -266,6 +266,8 @@ i {
   font-size: 14px;
   font-weight: 400;
   opacity: 0.5;
+  margin: 16px auto 0;
+  max-width: 400px;
 }
 
 .emojis {
